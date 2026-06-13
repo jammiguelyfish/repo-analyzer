@@ -1,6 +1,6 @@
 # AI GitHub Repository Summarizer
 
-A Streamlit web app that fetches any public GitHub repository's key source files and uses **Google Gemini** to generate a structured **Developer Onboarding Guide**.
+A Streamlit web app that fetches any public GitHub repository's key source files and uses **Google Gemini** to generate a structured **Developer Onboarding Guide**. You need a Google Gemini API key for this (free one is fine)
 
 ## Features
 
