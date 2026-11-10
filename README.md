@@ -26,7 +26,7 @@ repo-analyzer/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/repo-analyzer.git
+git clone https://github.com/jammiguelyfish/repo-analyzer.git
 cd repo-analyzer
 ```
 
